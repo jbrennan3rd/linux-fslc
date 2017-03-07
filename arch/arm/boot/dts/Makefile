@@ -428,7 +428,9 @@ dtb-$(CONFIG_SOC_IMX7D) += \
 	imx7d-sdb-reva-qspi.dtb \
 	imx7d-sdb-reva-touch.dtb \
 	imx7d-sdb-reva-wm8960.dtb \
-	imx7s-warp.dtb
+	imx7s-warp.dtb \
+	imx7d-skylinenff.dtb \
+	imx7d-skylinenff-m4.dtb
 dtb-$(CONFIG_SOC_LS1021A) += \
 	ls1021a-qds.dtb \
 	ls1021a-twr.dtb
